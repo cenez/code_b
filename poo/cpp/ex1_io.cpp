@@ -14,7 +14,3 @@ int main(int argc, char *argv[]) {
 	std::cout << 23445.8967 << std::endl;
 	return 0;
 }
-
-
-
-

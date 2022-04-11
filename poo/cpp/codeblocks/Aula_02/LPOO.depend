@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1647219197 source:d:\workspace\cpp\lpoo\main.cpp
+	<iostream>
+	"poligono.h"
+
+1647215839 d:\workspace\cpp\lpoo\poligono.h
+

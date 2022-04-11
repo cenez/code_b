@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1649100861 source:/mnt/DADOS/workspace/CPP/POO/Aula_01/Main.cpp
+	<wx/wxprec.h>
+	<wx/wx.h>
+
